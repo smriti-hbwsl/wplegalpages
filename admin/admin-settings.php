@@ -100,6 +100,7 @@ if ( '1' === $lpterms ) {
 	<c-container class="wplegalpages-settings-container">
 		<div class="wplegalpages-marketing-banner">
 				</div>
+				<h1>HELLO THERE</h1>
 		<c-form id="lp-save-settings-form" spellcheck="false" class="wplegalpages-settings-form">
 			<input type="hidden" name="settings_form_nonce" value="<?php echo esc_attr( wp_create_nonce( 'settings-form-nonce' ) ); ?>"/>
 			<div class="wplegalpages-settings-content">
